@@ -34,7 +34,7 @@ Presented at **FOSS4G Hiroshima 2026, Japan — Academic Track**.
 
 - GIS: QGIS (intermediate level) — [QGIS Training Manual](https://docs.qgis.org/3.40/ja/docs/training_manual/index.html)
 - Software: Microsoft Office (Excel, Word, PowerPoint)
-- Communication: Comfortable reading, writing, listening and speaking in English
+- English: IELTS Academic Overall 6.5; EIKEN Test in Practical English Proficiency, Grade Pre-1
 - GitHub: Basic operations
 
 ## Links
